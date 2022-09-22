@@ -1,3 +1,3 @@
-# neural-rehabilitation-
+# Neuro-Rehabilitation-by-Brain-Imaging
 
-I'm not sure what we're doing yet.
+Me and my team are currently working on approximations for EEG signals to better classify the CNV and ERPs using deep learning.
